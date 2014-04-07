@@ -1,0 +1,15 @@
+{
+  "name": "jquery-cookie",
+  "repo": "virtru-components/jquery-cookie",
+  "description": "jquery cookie plugin",
+  "version": "1.4.0",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
