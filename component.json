@@ -2,7 +2,7 @@
   "name": "jquery-cookie",
   "repo": "virtru-components/jquery-cookie",
   "description": "jquery cookie plugin",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "keywords": [],
   "dependencies": {
     "components/jquery": "2.1.0"
